@@ -26,3 +26,30 @@ int main(){}
 - Tên C++ là tên kế thừa của chương trình C và dấu " ++ " trong toán học thường được sử dụng để biểu thị phép tăng giá trị của một biến. Ta có thể hiểu đơn giản là C++ là phiên bản hoàn thiện hơn và tối ưu hơn.
 <img src="./img/1.9.png"/>
 - sai chữ new vì new là thì khoá trong bản Appendix B List 62 keyword nên ko sài được.
+<img src="./img/1.10.png"/>
+<b>A</b>. m *= n++
+    m có giá trị là 10 và n có giá trị là 3 <br>
+<b>B</b>. m += --n
+    m có giá trị là 6 và n có giá trị là 1 <br>
+<img src="./img/1.11.png"/>
+<b>A</b>. m - 8 - n ==> 25-8-7=10 <br>
+<b>B</b>. m = n = 3 ==> biến m = 3 và biến n = 3 <br>
+<b>C</b>. m%n ==> 25%7=4 <br>
+<b>D</b>. m%n++ ==> 25%7=4 <br>
+<b>E</b>. m%++n ==> giá trị của n là 8 do ++n => 25%8=1 <br>
+<b>F</b>. ++m - n-- ==> m có giá trị là 26 và n vẫn giữ nguyên giá trị là 7 => 26-7=19
+<img src="./img/1.12.png"/>
+-keyword: int, main, cin, cout, endl. <br>
+-identifier: n. <br>
+-operators: >>, *=, <<. <br>
+-literals: "n=". <br>
+-punctuations: (), {}, ;. <br>
+-comment:// multiply n by 3 <br>
+<img src="./img/1.13.png"/>
+<b>A</b>. sai chỗ >> vì keyword cout có tác dụng suất ra còn dấu << dùng để nhập dữ liệu từ bên ngoài. <br>
+<b>B</b>. sai chỗ double vì keyword double không được phép làm 1 biến để gáng giá trị.
+<img src="./img/1.14.png"/>
+- cả 2 câu lệnh đều có tác dụng giống nhau đều khởi tại biến ch và khi xuất ra màn hình biến ch sẽ có giá trị là 65
+<img src="./img/1.15 to 1.20.png"/>
+*1.15/
+    

@@ -20,3 +20,6 @@ một ví dụ khác trên mạng<br>
 <img src="./img/1.6 bài tập.png"/>
 <img src="./img/1.17.png"/>
 <img src="./img/1.7 bài tập.png"/>
+<img src="./img/1.8.png"/>
+<img src="./img/1.8 bài tập.png"/>
+<img src="./img/1.9.png"/>

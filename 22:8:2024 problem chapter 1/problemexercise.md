@@ -14,4 +14,9 @@ một ví dụ khác trên mạng<br>
 <img src="./img/1.4.png"/> <br>
 <img src="./img/1.4 bài tập.png"/>
 <img src="./img/1.4 kết quả.png"/>
-
+<img src="./img/1.5 .png"/>
+<img src="./img/1.5 bài tập.png"/>
+<img src="./img/1.6.png"/>
+<img src="./img/1.6 bài tập.png"/>
+<img src="./img/1.17.png"/>
+<img src="./img/1.7 bài tập.png"/>

@@ -5,3 +5,13 @@
 3/ --n <br>
 4/ n--<br>
 <img src="./img/1.2.png"/>
+<img src="./img/1.2 bài tập.png"/> <br>
+em nghĩ <br>
+<img src="./img/1.2 gamini.png"/> <br>
+một ví dụ khác trên mạng<br>
+<img src="./img/1.3.png"/>
+<img src="./img/1.3 bài tập.png"/>
+<img src="./img/1.4.png"/> <br>
+<img src="./img/1.4 bài tập.png"/>
+<img src="./img/1.4 kết quả.png"/>
+

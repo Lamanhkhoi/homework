@@ -23,3 +23,33 @@ một ví dụ khác trên mạng<br>
 <img src="./img/1.8.png"/>
 <img src="./img/1.8 bài tập.png"/>
 <img src="./img/1.9.png"/>
+write code
+<img src="./img/1.9 code.png"/>
+run code
+<img src="./img/1.9 run.png"/>
+<img src="./img/1.10.png"/>
+write code
+<img src="./img/1.10 code.png"/>
+run code
+<img src="./img/1.10 run.png"/>
+<img src="./img/1.11 to 1.14.png"/>
+1.11/<br>
+write code
+<img src="./img/1.11 code.png"/>
+run code
+<img src="./img/1.11 run.png"/>
+1.12/ <br>
+write code
+<img src="./img/1.12 code.png"/>
+code run
+<img src="./img/1.12 run.png"/>
+1.13/ <br>
+write code 
+<img src="./img/1.13 code.png"/>
+run code 
+<img src="./img/1.13 run.png"/>
+1.14/ <br>
+write code
+<img src="./img/1.14 code.png"/>
+run code
+<img src="./img/1.14 run.png"/>
